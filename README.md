@@ -56,10 +56,12 @@
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pvobrien&theme=onedark" alt="paul vincent" /></p> -->
 <!-- <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pvobrien"alt="pvobrien"/></a> -->
-</p>
+<!-- </p> -->
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=pvobrien&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken"/></p> -->
 
 <!--
 Leetcode path<a href="https://leetcode.com/daviddicken/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="50" height="50"/></a>
 HackerRank path <a href="https://www.hackerrank.com/davidfromseattle/hackos"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="70" height="70"/></a>
 -->
+
+<!-- Thanks to [HexxKing](https://github.com/HexxKing/HexxKing) and [David Dicken](https://github.com/daviddicken/daviddicken/blob/main/README.md) for excellent examples and resources to create these -->
