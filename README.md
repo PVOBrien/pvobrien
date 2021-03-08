@@ -31,8 +31,7 @@
     <img src="https://img.shields.io/badge/Bootstrap%20-%23563d7C.svg?style=flat&logo=bootstrap&logoColor=00c8ff">
     <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
     <img src="https://img.shields.io/badge/Spring-%6db33f.svg?style=flat&logo=Spring&logoColor=white">  
-    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="20" height="20"/>
-    <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=none">
+    <img src="http://img.shields.io/badge/-Amplify-000000?style=flat&logo=aws-amplify">
     <img src="http://img.shields.io/badge/-React-000000?style=flat&logo=react&color=5684FD">
   </a>
 </p>
@@ -56,6 +55,15 @@
     <!-- <img src="https://img.shields.io/badge/Figma-848484.svg?style=flat&logo=figma&logoColor=00c8ff"> -->
   </a>
  </p>
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvobrien&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
+ </p> 
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p> -->
+<!-- <p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddicken"alt="daviddicken"/></a> -->
+</p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=pvobrien&label=Profile%20views&color=0e75b6&style=flat" alt="daviddicken"/></p> -->
 
 <!--
 Leetcode path<a href="https://leetcode.com/daviddicken/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="50" height="50"/></a>
