@@ -9,13 +9,13 @@
 <p align="center">
 <!--   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/JavaReadMe.md"> -->
     <img src = "https://img.shields.io/badge/-Java-5382a1?style=flat&logo=java&logoColor=f8a520">
-  </a>
+<!--   </a> -->
 <!--   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/c%2B%2B/README.md"> -->
 <!--     <img src = "https://img.shields.io/badge/-C++-1572B6?style=flat&logo=c%2B%2B&logoColor=white"> -->
-  </a>
+<!--   </a> -->
 <!--   <a href = "https://github.com/daviddicken/data-structures-and-algorithms/blob/master/c%2B%2B/README.md"> -->
 <!--     <img src = "https://img.shields.io/badge/-CSharp-1572B6?style=flat&logo=Csharp&logoColor=white"> -->
-  </a>
+<!--   </a> -->
   <!-- <a href = "#Lang"><img src = "https://img.shields.io/badge/-Shell-ffffff?style=flat&logo=linux&logoColor=333333"></a> -->
 <!--   <a href = "#Lang"><img src = "https://img.shields.io/badge/-Visual Basic-c7c6c3?style=flat&logo=visual%20studio&logoColor=0078d7"></a> -->
   <a href = "#Lang"><img src = "https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=f0db4f"></a>
