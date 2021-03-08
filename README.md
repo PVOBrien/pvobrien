@@ -46,7 +46,9 @@
   </a>
  </p>
 
-<a href=https://github-readme-stats.vercel.app/api/top-langs/?username=pvobrien&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/pvobrien/github-readme-stats></a>
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pvobrien&layout=compact&theme=midnight-purple&card_width=800"></a>
+</p>
 
 <!--  <p align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvobrien&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
