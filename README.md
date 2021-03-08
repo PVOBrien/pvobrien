@@ -46,9 +46,11 @@
   </a>
  </p>
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvobrien&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
- </p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvobrien&layout=compact&theme=midnight-purple&card_width=800)](https://github.com/pvobrien/github-readme-stats)
+
+<!--  <p align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvobrien&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark">
+ </p>  -->
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddicken&theme=onedark" alt="daviddicken" /></p> -->
 <!-- <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviddicken"alt="daviddicken"/></a> -->
