@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=pvobrien&show_icons=true&theme=onedark"><br>
   <a target="_blank" href="https://www.codewars.com/users/PVOBrien"><img src="https://www.codewars.com/users/PVOBrien/badges/large" alt="codewars badge" /></a> <br>
